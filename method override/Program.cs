@@ -17,7 +17,7 @@ namespace method_override
     {
         public override void print()
         {
-            Console.WriteLine("I'm a Derived Class");
+            Console.WriteLine("I'm a Derived Cls");
         }
     }
     class Program
