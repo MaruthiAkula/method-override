@@ -10,7 +10,7 @@ namespace method_override
     {
       public virtual void print()
         {
-            Console.WriteLine("I'm a Base Classss");
+            Console.WriteLine("I'm a Base Class");
         }
     }
     public class Derivedclass:Baseclass
